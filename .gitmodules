@@ -1,12 +1,12 @@
-[submodule "Python_MatrixRain"]
-	path = Python_MatrixRain
+[submodule "MatrixRain"]
+	path = MatrixRain
 	url = https://github.com/realtobi999/Python_MatrixRain.git
-[submodule "Python_SynthPy"]
-	path = Python_SynthPy
+[submodule "SynthPy"]
+	path = SynthPy
 	url = https://github.com/realtobi999/Python_SynthPy.git
-[submodule "Python_TodoManager"]
-	path = Python_TodoManager
+[submodule "TodoManager"]
+	path = TodoManager
 	url = https://github.com/realtobi999/Python_TodoManager.git
-[submodule "Python_ProgSeminar"]
-	path = Python_ProgSeminar
+[submodule "School"]
+	path = School
 	url = https://github.com/realtobi999/Python_ProgSeminar.git
