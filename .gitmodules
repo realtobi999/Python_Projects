@@ -4,3 +4,9 @@
 [submodule "Python_SynthPy"]
 	path = Python_SynthPy
 	url = https://github.com/realtobi999/Python_SynthPy.git
+[submodule "Python_TodoManager"]
+	path = Python_TodoManager
+	url = https://github.com/realtobi999/Python_TodoManager.git
+[submodule "Python_ProgSeminar"]
+	path = Python_ProgSeminar
+	url = https://github.com/realtobi999/Python_ProgSeminar.git
