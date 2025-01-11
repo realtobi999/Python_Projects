@@ -1,3 +1,6 @@
 [submodule "Python_MatrixRain"]
 	path = Python_MatrixRain
 	url = https://github.com/realtobi999/Python_MatrixRain.git
+[submodule "Python_SynthPy"]
+	path = Python_SynthPy
+	url = https://github.com/realtobi999/Python_SynthPy.git
